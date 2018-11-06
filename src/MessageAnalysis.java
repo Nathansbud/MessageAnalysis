@@ -28,11 +28,11 @@ public class MessageAnalysis {
     }
 
     public static void main(String[] args) {
-        String[] messages = loadFile("data/Sanitized Files/MESSAGE_OUTPUT.txt");
+        String[] messages = loadFile("data/Sanitized Files/COMBINED_MESSAGE_OUTPUT.txt");
 
         int LM = messages.length; //LM -> Last Message
 
-        String ts = "butt";
+        String ts = "aryan";
         ts = ts.toLowerCase();
 
         int tsCount = 0;
@@ -42,8 +42,9 @@ public class MessageAnalysis {
                 tsCount++;
             }
         }
-        System.out.println(LM);
 
 
+
+        System.out.println(tsCount);
     }
 }

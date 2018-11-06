@@ -9,6 +9,16 @@
 
 *.csv
 
-*.txt
+*.xml
 
 *.iml
+
+.idea/
+
+data/Raw Discord TXT
+
+data/Raw Facebook JSON
+
+data/Sanitized Files
+
+.idea/vcs.xml
