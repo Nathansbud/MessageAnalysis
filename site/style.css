@@ -1,0 +1,28 @@
+body {
+    background-color: #EEEEEE;
+}
+
+h1 {
+    text-align: center;
+    padding: 25px;
+}
+
+p {
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 50px;
+    color: #2F4F4F
+}
+
+.next_button {
+    text-align: center;
+    padding: 30px;
+}
+
+.next_button a {
+    background-color: #2F4F4F;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border: 1px solid black;
+}

@@ -1,0 +1,14 @@
+
+.idea/misc.xml
+
+.idea/modules.xml
+
+.idea/workspace.xml
+
+*.class
+
+*.csv
+
+*.txt
+
+*.iml
