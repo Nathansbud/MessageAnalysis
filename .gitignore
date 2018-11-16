@@ -15,10 +15,15 @@
 
 .idea/
 
-data/Raw Discord TXT
+data/Users/*/Facebook (JSON)
 
-data/Raw Facebook JSON
 
-data/Sanitized Files
+data/Users/*/Discord (TXT)
+
+
+data/Users/*/Unsorted Files (TXT)
+
 
 .idea/vcs.xml
+
+docs/script.js

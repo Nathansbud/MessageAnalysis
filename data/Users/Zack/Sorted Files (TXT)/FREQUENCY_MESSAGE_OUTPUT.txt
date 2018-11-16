@@ -71838,8 +71838,7 @@ zÎ», 1
 🏮, 1
 🏯, 1
 🏰, 2
-🏳️‍🌈, 94
-🏳️‍🌈☀, 2
+🏳️‍🌈, 96
 🏺, 2
 🏻, 1
 🏼, 1
@@ -71885,8 +71884,7 @@ zÎ», 1
 👍🏾, 22
 👎, 8
 👎:, 1
-👎:skinttone4:, 1
-👎🏾, 35
+👎🏾, 36
 👏, 11
 👏🏾, 8
 👑, 2
@@ -71995,8 +71993,7 @@ zÎ», 1
 😤, 61
 😥, 1
 😦, 39
-😩, 252
-😩eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwZXJzb25fcGsiOjE2ODQ1LCJpc3MiOiJhc2IiLCJpYXQiOjE1Mzc2NDkxMTF.jpg, 1
+😩, 253
 😩🤜🏾, 9
 😬, 1
 😰, 1
