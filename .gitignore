@@ -27,3 +27,5 @@ data/Users/*/Unsorted Files (TXT)
 .idea/vcs.xml
 
 docs/script.js
+
+venv/
